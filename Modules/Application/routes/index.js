@@ -1,0 +1,1 @@
+module.exports.applicationRouters = require('./apllication.routes');

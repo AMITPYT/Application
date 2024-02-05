@@ -1,0 +1,1 @@
+module.exports.applicationController = require("./application.controller");
